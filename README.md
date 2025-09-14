@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou João Carlos.
 
-### 👨‍💻 Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em aprender e me especializar na área de **back-end**, mas também estou explorando outras áreas como front-end, automação e análise de dados.
+#### 👨‍💻 Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em aprender e me especializar na área de **back-end**, mas também estou explorando outras áreas como front-end, automação e análise de dados.
 
 Meu objetivo é construir soluções eficientes, escaláveis e bem estruturadas. Estou sempre buscando novos desafios e aprendizados!
 
