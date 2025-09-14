@@ -38,8 +38,7 @@ Meu objetivo é construir soluções eficientes, escaláveis e bem estruturadas.
 
 ## 📈 GitHub Stats
 
-![JoaoMocuba](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-
+![JoaoMocuba - Tokyonight](https://github-readme-stats.vercel.app/api?username=JoaoMocuba&show_icons=true&theme=tokyonight)
 ---
 
 ## Como me encontrar:
