@@ -38,7 +38,7 @@ Meu objetivo é construir soluções eficientes, escaláveis e bem estruturadas.
 
 ## 📈 GitHub Stats
 
-![JoaoMocuba GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+!JoaoMocuba(https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
 
 ---
 
