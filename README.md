@@ -48,7 +48,7 @@ Meu objetivo é construir soluções eficientes, escaláveis e bem estruturadas.
 - [LinkedIn](linkedin.com/in/joão-carlos-893640157)
 - [Email](jcmocuba@gmail.com)
 
-> “A jornada é tão importante quanto o destino. Cada linha de código é um passo rumo à evolução.”
+ “A jornada é tão importante quanto o destino. Cada linha de código é um passo rumo à evolução.”
 
 
 
