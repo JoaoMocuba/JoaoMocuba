@@ -56,7 +56,8 @@
 
 ---
 
-🚀 MISSÃO ATUAL
+🚀 MISSÃO ATUAL:
+
 📖 Estudar JavaScript Avançado
 
 🛠️ Praticar projetos com GitHub
