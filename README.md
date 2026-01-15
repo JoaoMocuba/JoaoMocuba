@@ -10,7 +10,7 @@
 
 ---
 
-## 🕹️ PERFIL DO JOGADOR
+## 🕹️ FICHA DO PERSONAGEM 
 
 - 👾 **Nick:** JoaoMocuba  
 - 🧠 **Classe:** Dev em Treinamento  
