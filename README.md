@@ -73,15 +73,17 @@
 
 ## 📬 CONTATO
 
-<p align="center">
-  <a href="mailto:jcmocuba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jcmocuba%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+
+  
+ <p align="center">
   <a href="https://github.com/JoaoMocuba">
-    <img src="https://img.shields.io/badge/GitHub-JoaoMocuba-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-893640157/">
-    <img src="https://img.shields.io/badge/LinkedIn-João%20Carlos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
 </p>
+
 
