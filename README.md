@@ -58,13 +58,13 @@
 
 🚀 MISSÃO ATUAL:
 
-📖 Estudar JavaScript Avançado
+. [] 📖 Estudar JavaScript Avançado
 
-🛠️ Praticar projetos com GitHub
+. [] 🛠️ Praticar projetos com GitHub
 
-🌐 Criar portfólio 
+. [] 🌐 Criar portfólio 
 
-🎯 Evoluir para o Lv.16
+. [] 🎯 Evoluir para o Lv.25
 
 <p align="center">
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200px"/>
