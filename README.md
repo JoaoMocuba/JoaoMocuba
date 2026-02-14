@@ -57,6 +57,7 @@
 ---
 
 🚀 MISSÃO ATUAL:
+
 . [ ] 👌 Aprender Modelagem em 3D
 
 . [ ] 💻 Estudar JavaScript Avançado
