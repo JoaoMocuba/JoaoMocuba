@@ -21,7 +21,7 @@
 ---
 
 ## 🧩 LEVEL
-- 🎮 **Level Atual:** `Lv.15`  
+- 🎮 **Level Atual:** `Lv.18`  
 - ⭐ **XP Atual:** `1.250 XP`  
 - 🏆 **Próximo Level:** `Lv.16 (1.500 XP)`
 
